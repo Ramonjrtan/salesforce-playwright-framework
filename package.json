@@ -1,0 +1,12 @@
+{
+  "name": "salesforce-playwright-framework",
+  "version": "1.0.0",
+  "description": "Salesforce Lightning Automation Framework using Playwright",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.42.0",
+    "dotenv": "^16.0.0"
+  }
+}
